@@ -7,23 +7,23 @@ plugins:
   - jekyll-remote-theme
 
 #-------------------------------
-# General Site Settings
-title: John Doe
-description: "Hi I'm Ari, and I'm a Data Scientist.  I'm currently building up my portfolio which focuses on interesting and impactful projects I've recently undertaken. You can visit my Github and LinkedIn pages, and download my resume by using the links below!"
+# General Site Settings 
+title: Areal (Ari) Tal
+description: "Hi I'm Ari, and I'm a Data Scientist with a background in production-level enterprise analytics development.  This portfolio is currently under construction such that the articles posted are not my own. That said, you can visit my Github and LinkedIn pages, and download my resume by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
-location: "London, UK"
+location: "Medford, MA"
 resume_url: /docs/resume.docx
 avatar_image: /img/profile_picture.JPG
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/#" # Add your linkedln handle
-github: "https://github.com/#"  # Add your github handle
+linkedln: "https://www.linkedin.com/in/arealtal/" # Add your linkedln handle
+github: "https://github.com/arealtal"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
